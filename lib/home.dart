@@ -25,7 +25,7 @@ class WeatherHome extends StatelessWidget {
             child: Column(
               children: [
                 SizedBox(height: AppBar().preferredSize.height),
-                Text("30°", style: TextStyle(fontSize: 80)),
+                Text("36°", style: TextStyle(fontSize: 80)),
                 Text("Cerah Berawan", style: TextStyle(fontSize: 25)),
                 Text("data"),
                 Text("data"),
